@@ -29,3 +29,13 @@ Crimes
 Salarios dos funcionarios de São Paulo (Taxa de vacancia)
 
 Empresas abrem e fecham por conta da onda de IA
+
+-----------------------------------------------------------------------------------------------------------------
+
+Projeto de Absenteísmo:
+
+Prever o Absenteísmo de empresas baseando-se em fatores que podem fazer o colaborador se ausentar
+
+https://archive.ics.uci.edu/dataset/445/absenteeism+at+work
+
+
